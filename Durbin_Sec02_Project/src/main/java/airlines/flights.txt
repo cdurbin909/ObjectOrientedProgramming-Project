@@ -1,0 +1,56 @@
+Emirates
+EK125
+Schwechat - Dubai
+76 seats available
+2023-01-15
+08:30:00
+375 minutes
+Southwest
+SW687
+Newyork - Austin
+34 seats available
+2023-03-05
+23:07:00
+260 minutes
+Emirates
+EK189
+Australia - Singapore
+0 seats available
+2023-01-15
+17:45:00
+181 minutes
+UnitedAirlines
+UA342
+Charlotte - Dallas
+53 seats available
+2023-02-10
+14:16:00
+175 minutes
+BritishAirlines
+BA123
+London - Canada
+28 seats available
+2023-02-10
+10:19:00
+460 minutes
+JetBlueAirlines
+JBU100
+Alabama - Florida
+16 seats available
+2023-03-10
+07:12:00
+212 minutes
+BritishAirlines
+BA478
+Schwechat - Dubai
+34 seats available
+2023-01-15
+11:30:00
+375 minutes
+JetBlueAirlines
+JBU115
+Charlotte - Dallas
+10 seats available
+2023-02-10
+09:20:00
+175 minutes
